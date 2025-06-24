@@ -38,7 +38,7 @@ const timeSlots = [
     { start: { h: 8, m: 0 }, end: { h: 10, m: 50 } },  // 8:00 am - 10:50 am
     { start: { h: 11, m: 0 }, end: { h: 12, m: 20 } }, // 11:00 am - 12:20 pm
     { start: { h: 12, m: 30 }, end: { h: 13, m: 50 } },// 12:30 pm - 1:50 pm
-    { start: { h: 14, m: 0 }, end: { h: 15, m: 20 } }  // 2:00 pm - 3:20 pm
+    { start: { h: 14, m: 30 }, end: { h: 15, m: 20 } }  // 2:00 pm - 3:20 pm
 ];
 
 // Find the current time slot index
